@@ -2,4 +2,4 @@
 The Minecraft Launcher
 
 # Language
-[Chinese]()
+[Chinese] (./readme_cn.md)
